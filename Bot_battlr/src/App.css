@@ -28,7 +28,7 @@ h1 {
 .bot-card {
   max-width: 300px;
   padding: 20px;
-  background-color: #fff;
+  background-color: grey;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   text-align: center;
@@ -63,7 +63,7 @@ h1 {
 }
 
 .bot-card button:hover {
-  background-color: #0056b3;
+  background-color: #000;
 }
 
 .your-bot-army {
@@ -86,6 +86,7 @@ h1 {
   flex-direction: column;
   align-items: center;
   margin-bottom: 20px;
+  width: 50px;
 }
 
 .bot-collection {
