@@ -3,11 +3,11 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #007bff;
+  background-color: brown;
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 500px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -36,7 +36,7 @@ h1 {
 
 .bot-card img {
   width: 100%;
-  max-height: 200px;
+  max-height: 70px;
   object-fit: cover;
   border-radius: 8px;
   margin-bottom: 10px;
@@ -94,5 +94,3 @@ h1 {
   justify-content: center;
   gap: 20px;
 }
-
-
